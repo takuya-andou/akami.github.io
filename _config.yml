@@ -1,0 +1,8 @@
+# GitHub Pages configuration
+include:
+  - llms.txt
+  - CNAME
+
+# Keep files as-is
+keep_files:
+  - llms.txt
